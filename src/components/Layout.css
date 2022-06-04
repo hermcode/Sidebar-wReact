@@ -1,0 +1,8 @@
+.main {
+  height: calc(100vh - 60px);
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  font-size: 5rem;
+  font-weight: bold;
+}
