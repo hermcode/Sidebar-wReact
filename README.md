@@ -2,7 +2,7 @@
 
 A scrolling toggle sidebar created with React ⚛️
 
-![Live version](https://gifyu.com/image/SxGHd)
+![Sidebar](https://user-images.githubusercontent.com/35512173/171968506-5c38b7c1-3b9f-40c7-ab24-174d759e861d.gif)
 
 ## Installation
 
